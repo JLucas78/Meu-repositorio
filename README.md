@@ -1,2 +1,3 @@
 # Meu repositorio
- Meu primeiro projeto
+ Meu primeiro projeto de Git e GitHub!
+ 
